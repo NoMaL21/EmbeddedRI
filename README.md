@@ -20,4 +20,4 @@
 > 2. 스마트폰 통신 문제 > 파이썬 코드 사용 불가로 인한 숙련도 부족, 텔레그램 X 블루투스 통신 사용
 
 5. 실행사진
-![실험 사진](https://user-images.githubusercontent.com/89987277/208415947-74d174f8-5776-4bc1-ac00-8cb3c78f5688.jpg)
+![실험 사진(축소)](https://user-images.githubusercontent.com/89987277/208416353-7f99b17b-32ac-414b-9c6a-b5abca1c1c8a.jpg)
