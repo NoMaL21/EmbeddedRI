@@ -6,7 +6,7 @@
 - 블루투스 모듈을 사용하여 스마트폰과의 통신기능
 
 2. 전체 시스템 구조
-- ![image](https://user-images.githubusercontent.com/89987277/208411617-39e1fbd9-b0fb-452b-b4e5-de9b9db4e21a.png)
+![image](https://user-images.githubusercontent.com/89987277/208411617-39e1fbd9-b0fb-452b-b4e5-de9b9db4e21a.png)
 
 3. 제한 조건 구현 내용 및 가산점 요소
 - 제한 조건
